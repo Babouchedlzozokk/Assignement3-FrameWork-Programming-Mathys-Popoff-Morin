@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mathy\\mslearn-dotnetmaui-store-local-data\\People\\People\\People.csproj": {}
+    "C:\\Users\\mathy\\Assignement3-FrameWork-Programming-Mathys-Popoff-Morin\\People\\People\\People.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mathy\\mslearn-dotnetmaui-store-local-data\\People\\People\\People.csproj": {
+    "C:\\Users\\mathy\\Assignement3-FrameWork-Programming-Mathys-Popoff-Morin\\People\\People\\People.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mathy\\mslearn-dotnetmaui-store-local-data\\People\\People\\People.csproj",
+        "projectUniqueName": "C:\\Users\\mathy\\Assignement3-FrameWork-Programming-Mathys-Popoff-Morin\\People\\People\\People.csproj",
         "projectName": "People",
-        "projectPath": "C:\\Users\\mathy\\mslearn-dotnetmaui-store-local-data\\People\\People\\People.csproj",
+        "projectPath": "C:\\Users\\mathy\\Assignement3-FrameWork-Programming-Mathys-Popoff-Morin\\People\\People\\People.csproj",
         "packagesPath": "C:\\Users\\mathy\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mathy\\mslearn-dotnetmaui-store-local-data\\People\\People\\obj\\",
+        "outputPath": "C:\\Users\\mathy\\Assignement3-FrameWork-Programming-Mathys-Popoff-Morin\\People\\People\\obj\\",
         "projectStyle": "PackageReference",
         "crossTargeting": true,
         "fallbackFolders": [
